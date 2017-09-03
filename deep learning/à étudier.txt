@@ -1,0 +1,8 @@
+https://tel.archives-ouvertes.fr/tel-01424150/document
+
+gradient descent
+
+ICI LES MEILLEURS ALGORITHMES A TROUVER ET IMPLEMENTER SUR LE NET
+conjugate gradient
+BFGS
+L-BFGS
